@@ -58,3 +58,30 @@ Revisaría estos indicadores cada tres meses. Si el producto avanza técnicament
 -----------------------------------
 Lo impotante no es cuánto estás ganando sino que haces con ese dinero
 -----------------------------------
+
+Qué especialización elegiría para ti en la era de la IA (2026–2029)
+Mi elección sería especializarte en Embedded Linux con C/C++, manteniendo una base sólida en firmware para microcontroladores y FreeRTOS, y posteriormente incorporar Edge AI (inteligencia artificial ejecutada directamente en dispositivos).
+
+Embedded Systems Engineer especializado en Linux, firmware y Edge Computing.
+-----------------------------------
+
+5. Ruta técnica que seguiría entre 2026 y 2028
+Etapa			Qué aprender y construir																Resultado esperado
+Meses 1–3		C/C++ moderno, Cortex-M, interrupciones, DMA, FreeRTOS, pruebas							Firmware confiable y demostrable
+Meses 4–6		Linux, procesos, threads, sockets, cross-compilation, GDB, CMake						Aplicación C++ nativa ejecutándose en ARM Linux
+Meses 7–10		Integración entre firmware y Linux, IPC, systemd, watchdog, redes						Sistema embebido integrado y tolerante a fallas
+Meses 11–14		Buildroot o Yocto, device tree, fundamentos de drivers, seguridad y actualizaciones		Imagen Linux personalizada y reproducible
+Meses 15–18		Inferencia con ONNX/TensorFlow Lite, cuantización, medición de latencia y memoria		Primera función de IA ejecutándose localmente
+
+
+Para la parte de IA, empezaría utilizando un modelo previamente entrenado.
+El objetivo sería aprender a integrarlo, medir su rendimiento y optimizar su ejecución en hardware limitado, no convertirte inmediatamente en investigador de aprendizaje automático.
+
+NXP dispone de herramientas y documentación para inferencia, conversión y cuantización de modelos sobre sus plataformas embebidas.
+
+No invertiría los siguientes dos años en estudiar tecnologías aisladas. Buscaría tener un sistema funcional en pocos meses e ir añadiéndole capacidades que puedas demostrar en entrevistas.
+
+
+Embedded Software Engineer —> C/C++ -> ARM -> RTOS -> Embedded Linux -> Edge Computing
+
+-----------------------------------
