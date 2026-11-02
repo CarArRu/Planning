@@ -3,7 +3,12 @@
 
 PLANIFICACIÓN
 
+-----------------------------------
 Pies en la tierra, qué tengo hoy y con eso, qué quiero para mañana
+
+-----------------------------------
+Lo impotante no es cuánto estás ganando sino que haces con ese dinero
+-----------------------------------
 
 
 
@@ -55,12 +60,11 @@ Calidad de vida				Tiempo de descanso y viajes compatibles con tus prioridades
 Revisaría estos indicadores cada tres meses. Si el producto avanza técnicamente pero no existe interés comercial, podrías conservarlo como portafolio y cambiar la idea de negocio sin perder todo el aprendizaje.
 
 
------------------------------------
-Lo impotante no es cuánto estás ganando sino que haces con ese dinero
------------------------------------
+----------------------------------------------
 
 Qué especialización elegiría para ti en la era de la IA (2026–2029)
-Mi elección sería especializarte en Embedded Linux con C/C++, manteniendo una base sólida en firmware para microcontroladores y FreeRTOS, y posteriormente incorporar Edge AI (inteligencia artificial ejecutada directamente en dispositivos).
+Mi elección sería especializarte en Embedded Linux con C/C++, manteniendo una base sólida en firmware para microcontroladores y FreeRTOS, y posteriormente incorporar Edge AI
+(inteligencia artificial ejecutada directamente en dispositivos).
 
 Embedded Systems Engineer especializado en Linux, firmware y Edge Computing.
 -----------------------------------
@@ -79,7 +83,7 @@ El objetivo sería aprender a integrarlo, medir su rendimiento y optimizar su ej
 
 NXP dispone de herramientas y documentación para inferencia, conversión y cuantización de modelos sobre sus plataformas embebidas.
 
-No invertiría los siguientes dos años en estudiar tecnologías aisladas. Buscaría tener un sistema funcional en pocos meses e ir añadiéndole capacidades que puedas demostrar en entrevistas.
+No invertiría los siguientes dos años en estudiar tecnologías aisladas. Buscaría tener un sistema funcional en pocos meses e ir añadiéndole capacidades que puedas demostrar en entrevistas.  !!!!!!!!!!!!
 
 
 Embedded Software Engineer —> C/C++ -> ARM -> RTOS -> Embedded Linux -> Edge Computing
