@@ -1,0 +1,60 @@
+
+
+
+PLANIFICACIÓN
+
+Pies en la tierra, qué tengo hoy y con eso, qué quiero para mañana
+
+
+
+Yo lo convertiría en un plan de transición de seis meses
+Mi propuesta sería la siguiente:
+1–2
+Meses
+Prioridad: recuperar estabilidad económica
+
+Aceptar proyectos rentables, destinar una parte importante del ingreso al ahorro y adaptarte a las jornadas y viajes.
+
+Para software embebido, bastaría con mantener una rutina mínima de estudio.
+
+
+
+3–4
+Meses
+Prioridad: fortalecer tu perfil técnico
+
+Buscaría negociar períodos entre proyectos para dedicar bloques de tiempo a un desarrollo en C/C++ y Linux Embedded.
+
+También retomaría activamente las postulaciones.
+
+
+
+5–6
+Meses
+Prioridad: evaluar resultados y oportunidades
+
+Revisaría tus ahorros, el avance técnico, las entrevistas obtenidas y el desgaste generado por los viajes.
+
+En función de los resultados, decidiría si continuar temporalmente con PLCs o reducir proyectos para concentrarte en embebidos.
+
+Te sugeriría establecer tres compromisos personales:
+1. Mantener contacto semanal con C/C++ o Linux Embedded, aunque algunas semanas únicamente puedas dedicarle dos horas.
+2. Continuar postulándote a vacantes adecuadas, sin depender exclusivamente de seguir estudiando.
+3. Revisar cada tres meses si realmente estás progresando hacia tu objetivo profesional.
+
+
+
+
+Objetivo					Indicador
+Estabilidad financiera		Ahorros y flujo de efectivo positivo
+Competencia técnica			Firmware funcional, probado y documentado
+Comercialización			Clientes interesados, pruebas piloto y ventas
+Reincorporación laboral		Entrevistas obtenidas y avance en procesos de selección
+Calidad de vida				Tiempo de descanso y viajes compatibles con tus prioridades
+
+Revisaría estos indicadores cada tres meses. Si el producto avanza técnicamente pero no existe interés comercial, podrías conservarlo como portafolio y cambiar la idea de negocio sin perder todo el aprendizaje.
+
+
+-----------------------------------
+Lo impotante no es cuánto estás ganando sino que haces con ese dinero
+-----------------------------------
