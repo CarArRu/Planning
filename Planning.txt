@@ -84,4 +84,93 @@ No invertiría los siguientes dos años en estudiar tecnologías aisladas. Busca
 
 Embedded Software Engineer —> C/C++ -> ARM -> RTOS -> Embedded Linux -> Edge Computing
 
+
+
+
+
+
+Tienes varios objetivos legítimos:
+- Recuperar tu estabilidad económica trabajando en proyectos de PLCs.
+- Reincorporarte profesionalmente a Embedded Software.
+- Mejorar tu inglés para acceder a más oportunidades laborales.
+- Aprender estadística, que también puede ser útil para ingeniería e IA.
+- Continuar desarrollando tu aplicación de inventarios en C# y MySQL.
+- Construir un sistema embebido propio que eventualmente podría comercializarse.
+Mi recomendación no sería abandonar ninguno de estos intereses, sino establecer prioridades y aprovechar las conexiones entre ellos.
+
+
+1. No todas las actividades requieren la misma dedicación
+Las dividiría en tres niveles.
+
+Prioridad alta — Embedded Software e inglés
+
+Embedded Software es tu objetivo profesional. El inglés puede ser decisivo para acceder a entrevistas, trabajar en equipos internacionales y ampliar tus posibilidades de empleo.
+
+Ambos necesitan continuidad.
+
+
+
+Prioridad media — Aplicación de inventarios
+
+Ya tienes un proyecto considerable en C# y MySQL. Conviene terminar funcionalidades importantes en lugar de mantenerlo indefinidamente en desarrollo.
+
+También puedes aprovecharlo para fortalecer conocimientos de arquitectura de software, bases de datos y estadística aplicada.
+
+
+
+Prioridad complementaria — Estadística
+
+No necesitas estudiarla inicialmente como una disciplina completamente separada.
+
+Puedes aprender estadística descriptiva, probabilidad e inferencia mediante datos generados por tus propios proyectos.
+
+
+2. Aprovecharía tus proyectos para aprender varias disciplinas
+Por ejemplo, en lugar de estudiar estadística de forma aislada, podrías añadir a tu aplicación de inventarios un módulo de análisis de ventas.
+Aplicación de inventarios + Estadística
+Ventas históricas
+Promedios, medianas, dispersión y tendencias
+
+Control de inventarios
+Rotación, demanda y variabilidad
+
+Análisis comercial
+Distribuciones, correlaciones y promociones
+
+Pronósticos
+Series temporales y errores de predicción
+
+
+
+De esa manera estarías aprendiendo estadística mientras mejoras un proyecto real.
+
+Lo mismo ocurre con el inglés. Puedes utilizar documentación técnica en inglés, escribir los README de GitHub en ese idioma y practicar explicaciones orales de tu arquitectura de firmware.
 -----------------------------------
+
+
+Ruta sugerida de 24 meses
+Objetivos orientativos, adaptables a los viajes y disponibilidad que tengas.
+Meses 1–3
+Base técnica
+
+C/C++ avanzado, ARM Cortex-M, FreeRTOS, Git, debugging e inglés. Primera versión funcional de firmware.
+
+Meses 4–6
+Integración
+
+Redes TCP/IP, protocolos, aplicaciones C++/C#, base de datos y estadística descriptiva.
+
+Meses 7–12
+Embedded Linux
+
+Linux, POSIX, cross-compilation, Buildroot, integración con Cortex-M y pruebas del sistema completo.
+
+Meses 13–18
+Profundización
+
+Yocto, fundamentos de drivers, seguridad, métodos numéricos, probabilidad y procesamiento de señales.
+
+Meses 19–24
+Especialización
+
+Edge AI, visión artificial, integración de modelos y optimización de sistemas embebidos.
